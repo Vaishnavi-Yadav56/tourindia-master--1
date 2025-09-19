@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+My project
+Project link - https://vaishnavi-yadav56.github.io/tourindia-master--1/
 # tourindia-master--1
 An interactive tourism portal with destination details, image gallery, and contact form for travelers . Tourism and travel website designed to promote beautiful destinations and make trip planning easier.
 =======
@@ -17,3 +18,4 @@ An interactive tourism portal with destination details, image gallery, and conta
 ## Usage
 After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 >>>>>>> 835f803 (Initial commit: Add all project files)
+
